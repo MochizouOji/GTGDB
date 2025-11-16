@@ -1,0 +1,2 @@
+-- create table guesses (id integer primary key autoincrement, user_id integer, date text not null, score integer, game text not null);
+-- create table Users (id integer primary key autoincrement, username text not null, password not null);
